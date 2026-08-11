@@ -1275,11 +1275,24 @@ If all checks pass, open `http://YOUR_EC2_PUBLIC_IP`.
 
 ---
 
+## ⭐ Support
+
+If you find this project useful or helpful, please consider giving it a **⭐ star** on GitHub.
+
+Your support is greatly appreciated and motivates me to keep improving the project! ❤️
+
+---
+
 ## 📄 License
 
-Add the project's license information here.
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for the full license text.
+
+---
 
 ## 👨‍💻 Maintainer
 
 **Kumar Devansh**
-Physio-Care — Physiotherapy Clinic Management Platform
+
+GitHub: [Kumar-Devansh](https://github.com/Kumar-Devansh)
