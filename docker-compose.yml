@@ -23,6 +23,7 @@ services:
       - "127.0.0.1:${PORT:-8000}:8000"
     volumes:
       - private_media:/srv/physiocare/media
+      - ./staticfiles:/srv/physiocare/staticfiles
     depends_on:
       db:
         condition: service_healthy
