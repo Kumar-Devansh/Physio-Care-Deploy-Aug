@@ -79,6 +79,70 @@ The application is designed to support:
 
 ---
 
+## 📸 Project Showcase
+
+<div align="center">
+
+### 🖥️ Application Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/14d24613-3697-49b0-9095-adc3a668f1b6" width="100%" />
+      <br />
+      <b>01 — Project Overview</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4d3c8269-bb9f-4467-9b08-31d0b2e5baec" width="100%" />
+      <br />
+      <b>02 — Application Interface</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2dbf7eaf-a28d-45ce-8dae-66737a141e3f" width="100%" />
+      <br />
+      <b>03 — Application Features</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/888d07fa-f74d-4f7e-807b-72d2e6320333" width="100%" />
+      <br />
+      <b>04 — Dashboard</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/17eb4499-419c-4a5c-a54f-57befb353178" width="100%" />
+      <br />
+      <b>05 — System Workflow</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0741218a-22c8-4bb9-905f-26d33ea3834b" width="100%" />
+      <br />
+      <b>06 — Deployment / Infrastructure</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cf359c96-96c4-49cb-81bd-6c011c8eac31" width="100%" />
+      <br />
+      <b>07 — Deployment & Infrastructure Overview</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/80322b13-1379-4af3-956c-cf7452607614" width="100%" />
+      <br />
+      <b>08 — Project Output</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
 ## 🏗 Architecture
 
 ```text
